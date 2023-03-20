@@ -2,7 +2,7 @@
 
 > This repository is the official [NTIRE Challenge 2023](https://cvlai.net/ntire/2023/) implementation of Team LVGroup_HFUT in [Image Shadow Removal](https://codalab.lisn.upsaclay.fr/competitions/10253).
 
-> The [restoration results](https://pan.baidu.com/s/1klcUzBUyWXxZ3eHXGestUg) (Extraction Code：a9zs) of the tesing images and [pretrained model](https://pan.baidu.com/s/12hQGGC6IwQ-GhKvw7tqNUQ) (Extraction Code：l9zt) can be downloaded from Baidu Netdisk.
+> The [restoration results](https://drive.google.com/file/d/1euZTV9OXwq9uctXp14an7cKbHBlh7m8p/view?usp=share_link) of the tesing images and [pretrained model](https://drive.google.com/file/d/1T_yrvs7YjMSa5RRNp_gd1fXUJflrOJdK/view?usp=share_link) can be downloaded from Google Drive.
 
 ## Usage
 
